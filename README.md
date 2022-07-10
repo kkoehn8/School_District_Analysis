@@ -25,10 +25,10 @@ The analysis at the district level showed little change, however the following c
 
 The school summary showed a dramatic difference for Thomas High School after the scores from the ninth graders were removed. The image below is from the original analysis
 
-![orig_school_summary](https://github.com/kkoehn8/School_District_Analysis/blob/main/orig_SchoolSummary.PNG)
+![orig_school_summary](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/orig_SchoolSummary.PNG)
 
 The image below is from the new analysis. 
-![new_school_summary](https://github.com/kkoehn8/School_District_Analysis/blob/main/new_SchoolSummary.PNG)
+![new_school_summary](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/new_SchoolSummary.PNG)
 
 As seen above there's a dramatic different in Percent Passing Math, Percent Passing Reading and Overall Passing Percent once the ninth grade students scores were removed.
 
@@ -37,15 +37,15 @@ This results in Thomas High School jumping from a 65% Overall Passing to a 90% O
 After replacing the ninth grade scores we can see the following:
 
  - The output for our scores by grade now show the ninth grade at Thomas is classified as nan (not a number).  
-![orig_math](https://github.com/kkoehn8/School_District_Analysis/blob/main/Orig_MathByGrade.PNG)
-![new_math](https://github.com/kkoehn8/School_District_Analysis/blob/main/New_MathByGrade.PNG)
+![orig_math](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/Orig_MathByGrade.PNG)
+![new_math](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/New_MathByGrade.PNG)
 
  - We see the exact same thing when we look at the reading scores 
 
  - We don't see a difference in the scores by school spending as can be seen below
  
-![orig_score_spending](https://github.com/kkoehn8/School_District_Analysis/blob/main/Orig_ScoreBySpending.PNG)
-![new_score_spending](https://github.com/kkoehn8/School_District_Analysis/blob/main/New_ScoreBySpending.PNG)
+![orig_score_spending](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/Orig_ScoreBySpending.PNG)
+![new_score_spending](https://github.com/kkoehn8/School_District_Analysis/blob/main/Images/New_ScoreBySpending.PNG)
  
  - We don't see a difference in the scores by school size after removing the ninth graders from Thomas High School
 
